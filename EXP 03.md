@@ -1,6 +1,6 @@
 ```c
-Name: Jash Chauhan
-PRN: 24070521242
+Name: Esha Hadap
+PRN: 24070521236
 ```
 
 # Experiment 3: Fork and Exec System Calls

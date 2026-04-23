@@ -46,7 +46,7 @@ gcc 1_fork_1236.c -o 1_fork.out
 ./1_fork.out
 ```
 
-### 🔹 For 2_fork_1242.c
+### 🔹 For 2_fork_1236.c
 ```bash
 # Step 1: Create/Edit file
 gedit 2_fork_1236.c
